@@ -15,4 +15,4 @@ Requirements:
 4. Validation: Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
 UML Class Diagram for Chain of Responsibility:
-![alt text](<Chain of Responsibility UML Class Diagram.png>)
+![Chain of Responsibility UML Class Diagram](https://github.com/user-attachments/assets/32ee3499-9efd-4a8f-bc8b-65a8ca7fea7a)
